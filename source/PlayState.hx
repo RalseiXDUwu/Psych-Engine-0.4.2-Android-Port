@@ -69,16 +69,16 @@ class PlayState extends MusicBeatState
 	public static var STRUM_X_MIDDLESCROLL = -278;
 
 	public static var ratingStuff:Array<Dynamic> = [
-		['You Suck!', 0.2], //From 0% to 19%
-		['Shit', 0.4], //From 20% to 39%
-		['Bad', 0.5], //From 40% to 49%
+		['Eres un inutil!', 0.2], //From 0% to 19%
+		['Mierda', 0.4], //From 20% to 39%
+		['Malo', 0.5], //From 40% to 49%
 		['Bruh', 0.6], //From 50% to 59%
-		['Meh', 0.69], //From 60% to 68%
-		['Nice', 0.7], //69%
-		['Good', 0.8], //From 70% to 79%
-		['Great', 0.9], //From 80% to 89%
-		['Sick!', 1], //From 90% to 99%
-		['Perfect!!', 1] //The value on this one isn't used actually, since Perfect is always "1"
+		['Hermano', 0.69], //From 60% to 68%
+		['Bonito', 0.7], //69%
+		['Buenardo', 0.8], //From 70% to 79%
+		['Estupendo', 0.9], //From 80% to 89%
+		['Bien!', 1], //From 90% to 99%
+		['Perfecto!!', 1] //The value on this one isn't used actually, since Perfect is always "1"
 	];
 	
 	#if (haxe >= "4.0.0")
@@ -900,6 +900,12 @@ class PlayState extends MusicBeatState
 		iconP2.visible = !ClientPrefs.hideHud;
 		add(iconP2);
 		reloadHealthBarColors();
+		
+        var creditTxt:FlxText = new FlxText(4,healthBarBG.y + 20,0,("Port by TheDivergent Pico's"), 24);
+        creditTxt.scrollFactor.set();
+        creditTxt.setFormat("VCR OSD Mono", 24, FlxColor.WHITE, LEFT, FlxTextBorderStyle.OUTLINE, FlxColor.BLACK);
+        creditTxt.borderColor = FlxColor.BLACK;
+        creditTxt.borderSize = 3;
 
         var creditTxt:FlxText = new FlxText(4,healthBarBG.y + 20,0,("Port by TheDivergentRalsei "), 24);
         creditTxt.scrollFactor.set();
