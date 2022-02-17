@@ -1,0 +1,19 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="kill.png">
+	<!-- Created with Adobe Animate version 21.0.7.42652 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="kill0000" x="9" y="9" width="914" height="1400" frameX="-8" frameY="0" frameWidth="924" frameHeight="1400"/>
+	<SubTexture name="kill0001" x="926" y="9" width="915" height="1400" frameX="-7" frameY="0" frameWidth="924" frameHeight="1400"/>
+	<SubTexture name="kill0002" x="926" y="9" width="915" height="1400" frameX="-7" frameY="0" frameWidth="924" frameHeight="1400"/>
+	<SubTexture name="kill0003" x="1844" y="9" width="914" height="1400" frameX="-8" frameY="0" frameWidth="924" frameHeight="1400"/>
+	<SubTexture name="kill0004" x="1844" y="9" width="914" height="1400" frameX="-8" frameY="0" frameWidth="924" frameHeight="1400"/>
+	<SubTexture name="kill0005" x="2761" y="9" width="919" height="1400" frameX="-3" frameY="0" frameWidth="924" frameHeight="1400"/>
+	<SubTexture name="kill0006" x="2761" y="9" width="919" height="1400" frameX="-3" frameY="0" frameWidth="924" frameHeight="1400"/>
+	<SubTexture name="kill0007" x="9" y="1412" width="924" height="1400"/>
+	<SubTexture name="kill0008" x="9" y="1412" width="924" height="1400"/>
+	<SubTexture name="kill0009" x="936" y="1412" width="922" height="1400" frameX="-1" frameY="0" frameWidth="924" frameHeight="1400"/>
+	<SubTexture name="kill0010" x="936" y="1412" width="922" height="1400" frameX="-1" frameY="0" frameWidth="924" frameHeight="1400"/>
+	<SubTexture name="kill0011" x="936" y="1412" width="922" height="1400" frameX="-1" frameY="0" frameWidth="924" frameHeight="1400"/>
+	<SubTexture name="kill0012" x="1861" y="1412" width="916" height="1400" frameX="-6" frameY="0" frameWidth="924" frameHeight="1400"/>
+	<SubTexture name="kill0013" x="1861" y="1412" width="916" height="1400" frameX="-6" frameY="0" frameWidth="924" frameHeight="1400"/>
+</TextureAtlas>

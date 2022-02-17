@@ -1,0 +1,19 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="tree2.png">
+	<!-- Created with Adobe Animate version 21.0.7.42652 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="trebacckk0000" x="9" y="9" width="1501" height="1274" frameX="0" frameY="0" frameWidth="1508" frameHeight="1274"/>
+	<SubTexture name="trebacckk0001" x="1513" y="9" width="1501" height="1274" frameX="0" frameY="0" frameWidth="1508" frameHeight="1274"/>
+	<SubTexture name="trebacckk0002" x="1513" y="9" width="1501" height="1274" frameX="0" frameY="0" frameWidth="1508" frameHeight="1274"/>
+	<SubTexture name="trebacckk0003" x="3017" y="9" width="1500" height="1274" frameX="0" frameY="0" frameWidth="1508" frameHeight="1274"/>
+	<SubTexture name="trebacckk0004" x="3017" y="9" width="1500" height="1274" frameX="0" frameY="0" frameWidth="1508" frameHeight="1274"/>
+	<SubTexture name="trebacckk0005" x="4520" y="9" width="1505" height="1274" frameX="0" frameY="0" frameWidth="1508" frameHeight="1274"/>
+	<SubTexture name="trebacckk0006" x="4520" y="9" width="1505" height="1274" frameX="0" frameY="0" frameWidth="1508" frameHeight="1274"/>
+	<SubTexture name="trebacckk0007" x="6028" y="9" width="1508" height="1274"/>
+	<SubTexture name="trebacckk0008" x="6028" y="9" width="1508" height="1274"/>
+	<SubTexture name="trebacckk0009" x="9" y="1286" width="1507" height="1274" frameX="0" frameY="0" frameWidth="1508" frameHeight="1274"/>
+	<SubTexture name="trebacckk0010" x="9" y="1286" width="1507" height="1274" frameX="0" frameY="0" frameWidth="1508" frameHeight="1274"/>
+	<SubTexture name="trebacckk0011" x="9" y="1286" width="1507" height="1274" frameX="0" frameY="0" frameWidth="1508" frameHeight="1274"/>
+	<SubTexture name="trebacckk0012" x="1519" y="1286" width="1502" height="1274" frameX="0" frameY="0" frameWidth="1508" frameHeight="1274"/>
+	<SubTexture name="trebacckk0013" x="1519" y="1286" width="1502" height="1274" frameX="0" frameY="0" frameWidth="1508" frameHeight="1274"/>
+</TextureAtlas>

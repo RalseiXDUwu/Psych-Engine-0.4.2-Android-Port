@@ -1,0 +1,19 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="trees1.png">
+	<!-- Created with Adobe Animate version 21.0.7.42652 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="trees0000" x="9" y="9" width="1650" height="1450" frameX="-10" frameY="0" frameWidth="1669" frameHeight="1450"/>
+	<SubTexture name="trees0001" x="1662" y="9" width="1651" height="1450" frameX="-9" frameY="0" frameWidth="1669" frameHeight="1450"/>
+	<SubTexture name="trees0002" x="1662" y="9" width="1651" height="1450" frameX="-9" frameY="0" frameWidth="1669" frameHeight="1450"/>
+	<SubTexture name="trees0003" x="3316" y="9" width="1650" height="1450" frameX="-10" frameY="0" frameWidth="1669" frameHeight="1450"/>
+	<SubTexture name="trees0004" x="3316" y="9" width="1650" height="1450" frameX="-10" frameY="0" frameWidth="1669" frameHeight="1450"/>
+	<SubTexture name="trees0005" x="4969" y="9" width="1662" height="1450" frameX="-4" frameY="0" frameWidth="1669" frameHeight="1450"/>
+	<SubTexture name="trees0006" x="4969" y="9" width="1662" height="1450" frameX="-4" frameY="0" frameWidth="1669" frameHeight="1450"/>
+	<SubTexture name="trees0007" x="9" y="1462" width="1669" height="1450"/>
+	<SubTexture name="trees0008" x="9" y="1462" width="1669" height="1450"/>
+	<SubTexture name="trees0009" x="1681" y="1462" width="1666" height="1450" frameX="-2" frameY="0" frameWidth="1669" frameHeight="1450"/>
+	<SubTexture name="trees0010" x="1681" y="1462" width="1666" height="1450" frameX="-2" frameY="0" frameWidth="1669" frameHeight="1450"/>
+	<SubTexture name="trees0011" x="1681" y="1462" width="1666" height="1450" frameX="-2" frameY="0" frameWidth="1669" frameHeight="1450"/>
+	<SubTexture name="trees0012" x="3350" y="1462" width="1655" height="1450" frameX="-7" frameY="0" frameWidth="1669" frameHeight="1450"/>
+	<SubTexture name="trees0013" x="3350" y="1462" width="1655" height="1450" frameX="-7" frameY="0" frameWidth="1669" frameHeight="1450"/>
+</TextureAtlas>

@@ -1,0 +1,25 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="knux.png">
+	<!-- Created with Adobe Animate version 21.0.7.42652 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="knuckles0000" x="9" y="9" width="1454" height="1258" frameX="-4" frameY="-2" frameWidth="1458" frameHeight="1260"/>
+	<SubTexture name="knuckles0001" x="9" y="9" width="1454" height="1258" frameX="-4" frameY="-2" frameWidth="1458" frameHeight="1260"/>
+	<SubTexture name="knuckles0002" x="1466" y="9" width="1456" height="1260" frameX="-2" frameY="0" frameWidth="1458" frameHeight="1260"/>
+	<SubTexture name="knuckles0003" x="1466" y="9" width="1456" height="1260" frameX="-2" frameY="0" frameWidth="1458" frameHeight="1260"/>
+	<SubTexture name="knuckles0004" x="2925" y="9" width="1457" height="1260" frameX="-1" frameY="0" frameWidth="1458" frameHeight="1260"/>
+	<SubTexture name="knuckles0005" x="2925" y="9" width="1457" height="1260" frameX="-1" frameY="0" frameWidth="1458" frameHeight="1260"/>
+	<SubTexture name="knuckles0006" x="4385" y="9" width="1458" height="1260"/>
+	<SubTexture name="knuckles0007" x="4385" y="9" width="1458" height="1260"/>
+	<SubTexture name="knuckles0008" x="5846" y="9" width="1457" height="1260" frameX="-1" frameY="0" frameWidth="1458" frameHeight="1260"/>
+	<SubTexture name="knuckles0009" x="5846" y="9" width="1457" height="1260" frameX="-1" frameY="0" frameWidth="1458" frameHeight="1260"/>
+	<SubTexture name="knuckles0010" x="9" y="1272" width="1456" height="1259" frameX="-2" frameY="-1" frameWidth="1458" frameHeight="1260"/>
+	<SubTexture name="knuckles0011" x="9" y="1272" width="1456" height="1259" frameX="-2" frameY="-1" frameWidth="1458" frameHeight="1260"/>
+	<SubTexture name="knuckles0012" x="1468" y="1272" width="1454" height="1257" frameX="-4" frameY="-3" frameWidth="1458" frameHeight="1260"/>
+	<SubTexture name="knuckles0013" x="1468" y="1272" width="1454" height="1257" frameX="-4" frameY="-3" frameWidth="1458" frameHeight="1260"/>
+	<SubTexture name="knuckles0014" x="2925" y="1272" width="1450" height="1255" frameX="-8" frameY="-5" frameWidth="1458" frameHeight="1260"/>
+	<SubTexture name="knuckles0015" x="2925" y="1272" width="1450" height="1255" frameX="-8" frameY="-5" frameWidth="1458" frameHeight="1260"/>
+	<SubTexture name="knuckles0016" x="4378" y="1272" width="1449" height="1257" frameX="-9" frameY="-3" frameWidth="1458" frameHeight="1260"/>
+	<SubTexture name="knuckles0017" x="4378" y="1272" width="1449" height="1257" frameX="-9" frameY="-3" frameWidth="1458" frameHeight="1260"/>
+	<SubTexture name="knuckles0018" x="5830" y="1272" width="1450" height="1258" frameX="-8" frameY="-2" frameWidth="1458" frameHeight="1260"/>
+	<SubTexture name="knuckles0019" x="5830" y="1272" width="1450" height="1258" frameX="-8" frameY="-2" frameWidth="1458" frameHeight="1260"/>
+</TextureAtlas>
