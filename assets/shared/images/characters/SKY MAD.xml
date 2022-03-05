@@ -1,0 +1,51 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="SKY MAD.png">
+	<!-- Created with Adobe Animate version 21.0.7.42652 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="SKY MAD DW0000" x="0" y="0" width="556" height="635"/>
+	<SubTexture name="SKY MAD DW0001" x="0" y="0" width="556" height="635"/>
+	<SubTexture name="SKY MAD DW0002" x="556" y="0" width="556" height="635"/>
+	<SubTexture name="SKY MAD DW0003" x="556" y="0" width="556" height="635"/>
+	<SubTexture name="SKY MAD DW0004" x="556" y="0" width="556" height="635"/>
+	<SubTexture name="SKY MAD DW0005" x="556" y="0" width="556" height="635"/>
+	<SubTexture name="SKY MAD DW0006" x="556" y="0" width="556" height="635"/>
+	<SubTexture name="SKY MAD DW0007" x="556" y="0" width="556" height="635"/>
+	<SubTexture name="SKY MAD ID0000" x="1112" y="0" width="556" height="635"/>
+	<SubTexture name="SKY MAD ID0001" x="1112" y="0" width="556" height="635"/>
+	<SubTexture name="SKY MAD ID0002" x="1668" y="0" width="556" height="635"/>
+	<SubTexture name="SKY MAD ID0003" x="1668" y="0" width="556" height="635"/>
+	<SubTexture name="SKY MAD ID0004" x="2224" y="0" width="556" height="635"/>
+	<SubTexture name="SKY MAD ID0005" x="2224" y="0" width="556" height="635"/>
+	<SubTexture name="SKY MAD ID0006" x="2780" y="0" width="556" height="635"/>
+	<SubTexture name="SKY MAD ID0007" x="2780" y="0" width="556" height="635"/>
+	<SubTexture name="SKY MAD ID0008" x="3336" y="0" width="556" height="635"/>
+	<SubTexture name="SKY MAD ID0009" x="3336" y="0" width="556" height="635"/>
+	<SubTexture name="SKY MAD ID0010" x="3336" y="0" width="556" height="635"/>
+	<SubTexture name="SKY MAD ID0011" x="3336" y="0" width="556" height="635"/>
+	<SubTexture name="SKY MAD ID0012" x="3336" y="0" width="556" height="635"/>
+	<SubTexture name="SKY MAD ID0013" x="3336" y="0" width="556" height="635"/>
+	<SubTexture name="SKY MAD LEFT 0000" x="0" y="635" width="562" height="635"/>
+	<SubTexture name="SKY MAD LEFT 0001" x="0" y="635" width="562" height="635"/>
+	<SubTexture name="SKY MAD LEFT 0002" x="562" y="635" width="556" height="635" frameX="-6" frameY="0" frameWidth="562" frameHeight="635"/>
+	<SubTexture name="SKY MAD LEFT 0003" x="562" y="635" width="556" height="635" frameX="-6" frameY="0" frameWidth="562" frameHeight="635"/>
+	<SubTexture name="SKY MAD LEFT 0004" x="562" y="635" width="556" height="635" frameX="-6" frameY="0" frameWidth="562" frameHeight="635"/>
+	<SubTexture name="SKY MAD LEFT 0005" x="562" y="635" width="556" height="635" frameX="-6" frameY="0" frameWidth="562" frameHeight="635"/>
+	<SubTexture name="SKY MAD LEFT 0006" x="562" y="635" width="556" height="635" frameX="-6" frameY="0" frameWidth="562" frameHeight="635"/>
+	<SubTexture name="SKY MAD LEFT 0007" x="562" y="635" width="556" height="635" frameX="-6" frameY="0" frameWidth="562" frameHeight="635"/>
+	<SubTexture name="SKY MAD RIGHT0000" x="1118" y="635" width="556" height="635"/>
+	<SubTexture name="SKY MAD RIGHT0001" x="1118" y="635" width="556" height="635"/>
+	<SubTexture name="SKY MAD RIGHT0002" x="1674" y="635" width="556" height="635"/>
+	<SubTexture name="SKY MAD RIGHT0003" x="1674" y="635" width="556" height="635"/>
+	<SubTexture name="SKY MAD RIGHT0004" x="1674" y="635" width="556" height="635"/>
+	<SubTexture name="SKY MAD RIGHT0005" x="1674" y="635" width="556" height="635"/>
+	<SubTexture name="SKY MAD RIGHT0006" x="1674" y="635" width="556" height="635"/>
+	<SubTexture name="SKY MAD RIGHT0007" x="1674" y="635" width="556" height="635"/>
+	<SubTexture name="SKY MAD UP0000" x="2230" y="635" width="556" height="635"/>
+	<SubTexture name="SKY MAD UP0001" x="2230" y="635" width="556" height="635"/>
+	<SubTexture name="SKY MAD UP0002" x="2786" y="635" width="556" height="635"/>
+	<SubTexture name="SKY MAD UP0003" x="2786" y="635" width="556" height="635"/>
+	<SubTexture name="SKY MAD UP0004" x="2786" y="635" width="556" height="635"/>
+	<SubTexture name="SKY MAD UP0005" x="2786" y="635" width="556" height="635"/>
+	<SubTexture name="SKY MAD UP0006" x="2786" y="635" width="556" height="635"/>
+	<SubTexture name="SKY MAD UP0007" x="2786" y="635" width="556" height="635"/>
+</TextureAtlas>

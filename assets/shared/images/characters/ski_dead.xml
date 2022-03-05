@@ -1,0 +1,131 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="ski_dead.png">
+	<!-- Created with Adobe Animate version 22.0.0.93 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="ski death c0000" x="2" y="2" width="454" height="469" pivotX="497.05" pivotY="505.7"/>
+	<SubTexture name="ski death c0001" x="2" y="2" width="454" height="469"/>
+	<SubTexture name="ski death c0002" x="459" y="2" width="454" height="469"/>
+	<SubTexture name="ski death c0003" x="459" y="2" width="454" height="469"/>
+	<SubTexture name="ski death c0004" x="916" y="2" width="454" height="469"/>
+	<SubTexture name="ski death c0005" x="916" y="2" width="454" height="469"/>
+	<SubTexture name="ski death c0006" x="1373" y="2" width="454" height="469"/>
+	<SubTexture name="ski death c0007" x="1373" y="2" width="454" height="469"/>
+	<SubTexture name="ski death c0008" x="1373" y="2" width="454" height="469"/>
+	<SubTexture name="ski death c0009" x="1373" y="2" width="454" height="469"/>
+	<SubTexture name="ski death c0010" x="1373" y="2" width="454" height="469"/>
+	<SubTexture name="ski death c0011" x="1373" y="2" width="454" height="469"/>
+	<SubTexture name="ski death c0012" x="1373" y="2" width="454" height="469"/>
+	<SubTexture name="ski death c0013" x="1373" y="2" width="454" height="469"/>
+	<SubTexture name="ski death c0014" x="1373" y="2" width="454" height="469"/>
+	<SubTexture name="ski death c0015" x="1373" y="2" width="454" height="469"/>
+	<SubTexture name="ski death c0016" x="1373" y="2" width="454" height="469"/>
+	<SubTexture name="ski death c0017" x="1373" y="2" width="454" height="469"/>
+	<SubTexture name="ski death c0018" x="1373" y="2" width="454" height="469"/>
+	<SubTexture name="ski death c0019" x="1373" y="2" width="454" height="469"/>
+	<SubTexture name="ski death c0020" x="1373" y="2" width="454" height="469"/>
+	<SubTexture name="ski death c0021" x="1373" y="2" width="454" height="469"/>
+	<SubTexture name="ski death c0022" x="1373" y="2" width="454" height="469"/>
+	<SubTexture name="ski death c0023" x="1373" y="2" width="454" height="469"/>
+	<SubTexture name="ski death c0024" x="1373" y="2" width="454" height="469"/>
+	<SubTexture name="ski death c0025" x="1373" y="2" width="454" height="469"/>
+	<SubTexture name="ski death c0026" x="1373" y="2" width="454" height="469"/>
+	<SubTexture name="ski death c0027" x="1373" y="2" width="454" height="469"/>
+	<SubTexture name="ski death c0028" x="1373" y="2" width="454" height="469"/>
+	<SubTexture name="ski death c0029" x="1373" y="2" width="454" height="469"/>
+	<SubTexture name="ski death c0030" x="1373" y="2" width="454" height="469"/>
+	<SubTexture name="ski death c0031" x="1373" y="2" width="454" height="469"/>
+	<SubTexture name="ski death c0032" x="1373" y="2" width="454" height="469"/>
+	<SubTexture name="ski death c0033" x="1373" y="2" width="454" height="469"/>
+	<SubTexture name="ski death loop0000" x="1830" y="2" width="431" height="455" pivotX="494.25" pivotY="491.6"/>
+	<SubTexture name="ski death loop0001" x="1830" y="2" width="431" height="455"/>
+	<SubTexture name="ski death loop0002" x="1830" y="2" width="431" height="455"/>
+	<SubTexture name="ski death loop0003" x="1830" y="2" width="431" height="455"/>
+	<SubTexture name="ski death loop0004" x="1830" y="2" width="431" height="455"/>
+	<SubTexture name="ski death loop0005" x="1830" y="2" width="431" height="455"/>
+	<SubTexture name="ski death loop0006" x="1830" y="2" width="431" height="455"/>
+	<SubTexture name="ski death loop0007" x="1830" y="2" width="431" height="455"/>
+	<SubTexture name="ski death loop0008" x="2264" y="2" width="431" height="455"/>
+	<SubTexture name="ski death loop0009" x="1830" y="2" width="431" height="455"/>
+	<SubTexture name="ski death loop0010" x="2264" y="2" width="431" height="455"/>
+	<SubTexture name="ski death loop0011" x="1830" y="2" width="431" height="455"/>
+	<SubTexture name="ski death loop0012" x="1830" y="2" width="431" height="455"/>
+	<SubTexture name="ski death loop0013" x="1830" y="2" width="431" height="455"/>
+	<SubTexture name="ski death loop0014" x="1830" y="2" width="431" height="455"/>
+	<SubTexture name="ski death loop0015" x="1830" y="2" width="431" height="455"/>
+	<SubTexture name="ski death loop0016" x="1830" y="2" width="431" height="455"/>
+	<SubTexture name="ski death loop0017" x="1830" y="2" width="431" height="455"/>
+	<SubTexture name="ski death loop0018" x="1830" y="2" width="431" height="455"/>
+	<SubTexture name="ski death loop0019" x="1830" y="2" width="431" height="455"/>
+	<SubTexture name="ski death loop0020" x="1830" y="2" width="431" height="455"/>
+	<SubTexture name="ski death loop0021" x="1830" y="2" width="431" height="455"/>
+	<SubTexture name="ski death loop0022" x="2264" y="2" width="431" height="455"/>
+	<SubTexture name="ski death loop0023" x="1830" y="2" width="431" height="455"/>
+	<SubTexture name="ski death loop0024" x="2264" y="2" width="431" height="455"/>
+	<SubTexture name="ski death loop0025" x="1830" y="2" width="431" height="455"/>
+	<SubTexture name="ski death loop0026" x="1830" y="2" width="431" height="455"/>
+	<SubTexture name="ski death loop0027" x="1830" y="2" width="431" height="455"/>
+	<SubTexture name="ski death loop0028" x="1830" y="2" width="431" height="455"/>
+	<SubTexture name="ski death loop0029" x="1830" y="2" width="431" height="455"/>
+	<SubTexture name="ski death loop0030" x="1830" y="2" width="431" height="455"/>
+	<SubTexture name="ski death loop0031" x="1830" y="2" width="431" height="455"/>
+	<SubTexture name="ski death loop0032" x="1830" y="2" width="431" height="455"/>
+	<SubTexture name="ski death loop0033" x="1830" y="2" width="431" height="455"/>
+	<SubTexture name="ski diesnt0000" x="2698" y="2" width="533" height="476" pivotX="498.2" pivotY="512.4"/>
+	<SubTexture name="ski diesnt0001" x="3234" y="2" width="533" height="476"/>
+	<SubTexture name="ski diesnt0002" x="2" y="481" width="533" height="476"/>
+	<SubTexture name="ski diesnt0003" x="538" y="481" width="533" height="476"/>
+	<SubTexture name="ski diesnt0004" x="1074" y="481" width="533" height="476"/>
+	<SubTexture name="ski diesnt0005" x="1610" y="481" width="533" height="476"/>
+	<SubTexture name="ski diesnt0006" x="2146" y="481" width="533" height="476"/>
+	<SubTexture name="ski diesnt0007" x="2682" y="481" width="533" height="476"/>
+	<SubTexture name="ski diesnt0008" x="3218" y="481" width="533" height="476"/>
+	<SubTexture name="ski diesnt0009" x="2" y="960" width="533" height="476"/>
+	<SubTexture name="ski diesnt0010" x="538" y="960" width="533" height="476"/>
+	<SubTexture name="ski diesnt0011" x="2" y="960" width="533" height="476"/>
+	<SubTexture name="ski diesnt0012" x="538" y="960" width="533" height="476"/>
+	<SubTexture name="ski diesnt0013" x="2" y="960" width="533" height="476"/>
+	<SubTexture name="ski diesnt0014" x="538" y="960" width="533" height="476"/>
+	<SubTexture name="ski diesnt0015" x="2" y="960" width="533" height="476"/>
+	<SubTexture name="ski diesnt0016" x="538" y="960" width="533" height="476"/>
+	<SubTexture name="ski diesnt0017" x="2" y="960" width="533" height="476"/>
+	<SubTexture name="ski diesnt0018" x="538" y="960" width="533" height="476"/>
+	<SubTexture name="ski diesnt0019" x="2" y="960" width="533" height="476"/>
+	<SubTexture name="ski diesnt0020" x="538" y="960" width="533" height="476"/>
+	<SubTexture name="ski diesnt0021" x="2" y="960" width="533" height="476"/>
+	<SubTexture name="ski diesnt0022" x="538" y="960" width="533" height="476"/>
+	<SubTexture name="ski diesnt0023" x="1074" y="960" width="533" height="476"/>
+	<SubTexture name="ski diesnt0024" x="1610" y="960" width="533" height="476"/>
+	<SubTexture name="ski diesnt0025" x="2146" y="960" width="533" height="476"/>
+	<SubTexture name="ski diesnt0026" x="2146" y="960" width="533" height="476"/>
+	<SubTexture name="ski diesnt0027" x="2682" y="960" width="533" height="476"/>
+	<SubTexture name="ski diesnt0028" x="2682" y="960" width="533" height="476"/>
+	<SubTexture name="ski diesnt0029" x="2682" y="960" width="533" height="476"/>
+	<SubTexture name="ski diesnt0030" x="2682" y="960" width="533" height="476"/>
+	<SubTexture name="ski diesnt0031" x="2682" y="960" width="533" height="476"/>
+	<SubTexture name="ski diesnt0032" x="2682" y="960" width="533" height="476"/>
+	<SubTexture name="ski diesnt0033" x="2682" y="960" width="533" height="476"/>
+	<SubTexture name="ski diesnt0034" x="2682" y="960" width="533" height="476"/>
+	<SubTexture name="ski diesnt0035" x="2682" y="960" width="533" height="476"/>
+	<SubTexture name="ski diesnt0036" x="2682" y="960" width="533" height="476"/>
+	<SubTexture name="ski diesnt0037" x="2682" y="960" width="533" height="476"/>
+	<SubTexture name="ski diesnt0038" x="2682" y="960" width="533" height="476"/>
+	<SubTexture name="ski diesnt0039" x="2682" y="960" width="533" height="476"/>
+	<SubTexture name="ski diesnt0040" x="2682" y="960" width="533" height="476"/>
+	<SubTexture name="ski diesnt0041" x="2682" y="960" width="533" height="476"/>
+	<SubTexture name="ski diesnt0042" x="2682" y="960" width="533" height="476"/>
+	<SubTexture name="ski diesnt0043" x="2682" y="960" width="533" height="476"/>
+	<SubTexture name="ski diesnt0044" x="2682" y="960" width="533" height="476"/>
+	<SubTexture name="ski diesnt0045" x="3218" y="960" width="533" height="476"/>
+	<SubTexture name="ski diesnt0046" x="3218" y="960" width="533" height="476"/>
+	<SubTexture name="ski diesnt0047" x="2" y="1439" width="533" height="476"/>
+	<SubTexture name="ski diesnt0048" x="538" y="1439" width="533" height="476"/>
+	<SubTexture name="ski diesnt0049" x="1074" y="1439" width="533" height="476"/>
+	<SubTexture name="ski diesnt0050" x="1610" y="1439" width="533" height="476"/>
+	<SubTexture name="ski diesnt0051" x="1610" y="1439" width="533" height="476"/>
+	<SubTexture name="ski diesnt0052" x="2146" y="1439" width="533" height="476"/>
+	<SubTexture name="ski diesnt0053" x="2146" y="1439" width="533" height="476"/>
+	<SubTexture name="ski diesnt0054" x="2146" y="1439" width="533" height="476"/>
+	<SubTexture name="ski diesnt0055" x="2146" y="1439" width="533" height="476"/>
+	<SubTexture name="ski diesnt0056" x="2146" y="1439" width="533" height="476"/>
+	<SubTexture name="ski diesnt0057" x="2146" y="1439" width="533" height="476"/>
+</TextureAtlas>
