@@ -1,0 +1,78 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				0,
+				0
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "idle",
+			"indices": [],
+			"name": "SKY ID"
+		},
+		{
+			"offsets": [
+				0,
+				0
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singLEFT",
+			"indices": [],
+			"name": "SKY LEFT"
+		},
+		{
+			"offsets": [
+				3,
+				0
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singDOWN",
+			"indices": [],
+			"name": "SKY DW"
+		},
+		{
+			"offsets": [
+				0,
+				0
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singUP",
+			"indices": [],
+			"name": "SKY UP"
+		},
+		{
+			"offsets": [
+				4,
+				0
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singRIGHT",
+			"indices": [],
+			"name": "SKY RIGHT"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/SKY",
+	"position": [
+		-60,
+		120
+	],
+	"healthicon": "sky",
+	"flip_x": false,
+	"healthbar_colors": [
+		201,
+		141,
+		241
+	],
+	"camera_position": [
+		-70,
+		30
+	],
+	"sing_duration": 6.1,
+	"scale": 1
+}
