@@ -10,7 +10,7 @@ class HealthIcon extends FlxSprite
 	public var sprTracker:FlxSprite;
 	private var isOldIcon:Bool = false;
 	private var isPlayer:Bool = false;
-	public var char:String = '';
+	private var char:String = '';
 
 	public function new(char:String = 'bf', isPlayer:Bool = false)
 	{
@@ -42,7 +42,7 @@ class HealthIcon extends FlxSprite
 			var file:Dynamic = Paths.image(name);
 
 			loadGraphic(file, true, 150, 150);
-			animation.add(char, [0, 1,2], 0, false, isPlayer);
+			animation.add(char, [0, 1], 0, false, isPlayer);
 			animation.play(char);
 			this.char = char;
 
